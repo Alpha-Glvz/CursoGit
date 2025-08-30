@@ -1,1 +1,1 @@
-Adios esto es una prueba
+console.log("Hola Mundo");
